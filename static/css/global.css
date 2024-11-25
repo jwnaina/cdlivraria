@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Mada:wght@200..900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Oswald:wght@200..700&display=swap');
+
+@import 'animate.css';
+
+
+* { 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
